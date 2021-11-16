@@ -21,7 +21,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('./assets/backdrop.png'), hsl(49, 23%, 18%);
+    background: url('../assets/backdrop.png'), hsl(49, 23%, 18%);
 }
 
 .content{
