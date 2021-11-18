@@ -27,4 +27,17 @@ body{
 .content{
     max-width: 600px;
     text-align: center;
+    line-height: 2.5rem;
+}
+
+.home{
+    padding: 10px;
+    background-color: aliceblue;
+    color: hsl(34, 50%, 3%);
+    border-radius: 6px;
+}
+
+.home:hover{
+    color: aliceblue;
+    background-color: hsl(34, 50%, 3%);
 }
