@@ -21,7 +21,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../assets/backdrop.png');
+    background: url('./assets/backdrop.png');
 }
 
 .content{
